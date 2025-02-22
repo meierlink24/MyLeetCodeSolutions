@@ -8,6 +8,6 @@ class Solution {
                 }
             }
          }
-         return new int[]{}; // in case no solution is found
+         return new int[]{}; // in case no solution is found.
     }
 }
